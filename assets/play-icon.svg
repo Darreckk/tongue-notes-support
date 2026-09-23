@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
-  <title id="title">Tongue Notes app icon</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">TCM Tongue Notes app icon</title>
+  <desc id="desc">An open mouth with lips, visible teeth, and a tongue.</desc>
   <rect width="512" height="512" fill="#204B45"/>
-  <path d="M147 100h160l61 61v232c0 22-17 39-39 39H147c-22 0-39-17-39-39V139c0-22 17-39 39-39Z" fill="#FAF6EC"/>
-  <path d="M307 101v60h61" fill="none" stroke="#A7BEB4" stroke-width="15" stroke-linejoin="round"/>
-  <path d="M160 315c15-79 59-128 102-128s86 49 91 128c5 44-29 70-98 70s-103-26-95-70Z" fill="#CB7965"/>
-  <path d="M259 234v89" fill="none" stroke="#A7554D" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="179" cy="167" r="12" fill="#204B45"/>
+  <path d="M76 255c46-43 108-58 180-49 72-9 134 6 180 49-28 93-94 158-180 158S104 348 76 255Z" fill="#CA7B70"/>
+  <path d="M105 258c45-23 95-32 151-32s106 9 151 32c-26 78-80 128-151 128s-125-50-151-128Z" fill="#453036"/>
+  <path d="M156 304c18-20 55-29 100-29s82 9 100 29c18 22 24 52 16 78-13 43-56 67-116 67s-103-24-116-67c-8-26-2-56 16-78Z" fill="#D9857C"/>
+  <path d="M154 345c28-24 63-34 102-34s74 10 102 34" fill="none" stroke="#ECA69A" stroke-width="7" stroke-linecap="round"/>
+  <path d="M133 258c36-12 77-19 123-19s87 7 123 19c-14 25-60 41-123 41s-109-16-123-41Z" fill="#FFF8EA"/>
+  <path d="M198 247v45m58-52v57m58-50v45" fill="none" stroke="#DED9CB" stroke-width="3" stroke-linecap="round"/>
 </svg>
