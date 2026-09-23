@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Tongue Notes mark</title>
+  <rect width="96" height="96" rx="23" fill="#204B45"/>
+  <path d="M28 20h30l11 11v42a7 7 0 0 1-7 7H28a7 7 0 0 1-7-7V27a7 7 0 0 1 7-7Z" fill="#FAF6EC"/>
+  <path d="M58 20v11h11" fill="none" stroke="#A7BEB4" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M31 59c3-15 12-24 20-24s16 9 17 24c1 8-5 13-18 13S29 67 31 59Z" fill="#CB7965"/>
+  <path d="M49 45v17" fill="none" stroke="#A7554D" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="35" cy="32" r="2" fill="#204B45"/>
+</svg>

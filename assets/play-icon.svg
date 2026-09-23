@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Tongue Notes app icon</title>
+  <rect width="512" height="512" fill="#204B45"/>
+  <path d="M147 100h160l61 61v232c0 22-17 39-39 39H147c-22 0-39-17-39-39V139c0-22 17-39 39-39Z" fill="#FAF6EC"/>
+  <path d="M307 101v60h61" fill="none" stroke="#A7BEB4" stroke-width="15" stroke-linejoin="round"/>
+  <path d="M160 315c15-79 59-128 102-128s86 49 91 128c5 44-29 70-98 70s-103-26-95-70Z" fill="#CB7965"/>
+  <path d="M259 234v89" fill="none" stroke="#A7554D" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="179" cy="167" r="12" fill="#204B45"/>
+</svg>

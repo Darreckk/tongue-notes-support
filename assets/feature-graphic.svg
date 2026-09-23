@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 500" role="img" aria-labelledby="title desc">
+  <title id="title">Tongue Notes feature graphic</title>
+  <desc id="desc">Warm paper and deep green editorial design with abstract observation lines.</desc>
+  <rect width="1024" height="500" fill="#E9E9DC"/>
+  <path d="M-36 440C181 289 239 568 505 400S864 271 1071 421" fill="none" stroke="#CDD5C5" stroke-width="76" stroke-linecap="round"/>
+  <path d="M-42 397C169 260 265 478 465 359S857 223 1091 375" fill="none" stroke="#B8CABC" stroke-width="2"/>
+  <circle cx="785" cy="239" r="164" fill="#204B45"/>
+  <circle cx="785" cy="239" r="139" fill="none" stroke="#71958B" stroke-width="1.5"/>
+  <path d="M682 272c12-90 58-145 106-145s96 55 99 145c2 59-30 96-103 96s-112-37-102-96Z" fill="#CB7965"/>
+  <path d="M785 185v129" fill="none" stroke="#A7554D" stroke-width="9" stroke-linecap="round"/>
+  <text x="78" y="172" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="7" fill="#49665E">EDUCATIONAL TCM</text>
+  <text x="76" y="269" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#203A35">Tongue Notes</text>
+  <text x="80" y="329" font-family="Arial, sans-serif" font-size="27" fill="#49665E">Observe. Reflect. Understand.</text>
+</svg>
